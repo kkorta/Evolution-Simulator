@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="agh.ics.oop.MapTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-01-01T13:27:53" hostname="LAPTOP-4VHLAV8G" time="0.039">
+  <properties/>
+  <testcase name="testAnimal()" classname="agh.ics.oop.MapTest" time="0.039"/>
+  <system-out><![CDATA[(4, 4)
+(3, 5)
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
